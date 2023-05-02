@@ -1,2 +1,5 @@
-# WebDevelopmentCoursework
-A first website for Web Development.
+- Medium difficulty avatar selection in registration.php
+- Functioning medium difficulty pairs game
+- Leaderboard sorts for the lowest number of moves and displays
+- I have used csv file to store scores and names permanently
+- Used a few elements of bootstrap in navbar.
